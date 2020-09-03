@@ -1,0 +1,8 @@
+Non-Static: create an instance and then call it using ->
+
+$instance  =  new DB();
+$instance->init();
+
+Static: No need to create instance just call it using ::
+
+DB::getFacade()

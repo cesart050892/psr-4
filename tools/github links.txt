@@ -1,0 +1,16 @@
+Github list
+
+https://github.com/canchito-dev/mini-framework-mvc.git
+
+https://github.com/panique/mini3
+https://github.com/panique/mini2
+https://github.com/panique/mini
+https://github.com/panique/pdo-debug
+
+https://github.com/abalozz/mini-framework-php
+
+https://github.com/mcanan/min-php-framework.git
+
+https://github.com/slimphp/Slim-Skeleton.git
+
+https://github.com/vernsix/iPinga-Starter-App.git
