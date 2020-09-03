@@ -1,0 +1,19 @@
+{
+    "name": "ing-cesar/psr-4",
+    "description": "implement psr-4",
+    "type": "project",
+    "authors": [
+        {
+            "name": "cesart050892",
+            "email": "cesart050892@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\":"app/",
+            "Core\\":"core/"
+        }
+    }
+    
+}
